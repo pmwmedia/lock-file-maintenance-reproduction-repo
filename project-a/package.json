@@ -1,0 +1,7 @@
+{
+    "name": "project-a",
+    "private": true,
+    "dependencies": {
+        "typescript": "^4.0.0"
+    }
+}

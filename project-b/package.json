@@ -1,0 +1,7 @@
+{
+    "name": "project-b",
+    "private": true,
+    "dependencies": {
+        "openapi-client": "file:../generated/openapi-client"
+    }
+}
